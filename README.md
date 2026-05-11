@@ -8,7 +8,7 @@ Hi, I'm Lívia!!
 🚀 Building projects and learning something new every day.
 
 <p align="center">
-  <img src="https://c.tenor.com/uK4f5M0JjKAAAAAC/mewkledreamy-yume-hinata.gif" width="250px">
+  <img src="https://media1.tenor.com/m/AA1tt7ENfikAAAAC/mewkledreamy-yume-hinata.gif" width="300px">
 </p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
