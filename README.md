@@ -8,6 +8,10 @@ Hi, I'm Lívia!!
 🚀 Building projects and learning something new every day.
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=hey%2C+i'm+lily+🎀" />
+</p>
+
+<p align="center">
   <img src="https://media1.tenor.com/m/AA1tt7ENfikAAAAC/mewkledreamy-yume-hinata.gif" width="300px">
 </p>
 
