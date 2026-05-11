@@ -1,6 +1,8 @@
 <h1>Welcome to my GitHub!</h1>
 
-# Hi, I'm Lívia!! ₊˚⊹♡
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=hey%2C+i'm+lily+🎀" />
+</p>
 
 ### 18 years old and a Systems Analysis and Development student.
 
@@ -8,10 +10,6 @@
 - Learning Java, SQL & C#.
 - Building projects and improving my coding skills.
 - Exploring UI/UX design with Figma.
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=hey%2C+i'm+lily+." />
-</p>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/AA1tt7ENfikAAAAC/mewkledreamy-yume-hinata.gif" width="450px">
