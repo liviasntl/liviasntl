@@ -14,7 +14,7 @@ Hi, I'm Lívia!! 18 years old and a Systems Analysis and Development student.
   <img src="https://media1.tenor.com/m/AA1tt7ENfikAAAAC/mewkledreamy-yume-hinata.gif" width="450px">
 </p>
 
-# Languages & Tools I Play With
+## Languages & Tools I Play With
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,python,java,js,github,figma" />
