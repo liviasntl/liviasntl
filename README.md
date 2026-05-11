@@ -1,6 +1,6 @@
 <h1>Welcome to my GitHub!</h1>
 
-# Hi, I'm Lívia!! ₊˚⊹♡
+## Hi, I'm Lívia.
 
 ### 18 years old and a Systems Analysis and Development student.
 
