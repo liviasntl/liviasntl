@@ -19,3 +19,10 @@ Hi, I'm Lívia!! 18 years old and a Systems Analysis and Development student.
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+Languages & Tools I Play With
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,python,java,js,github,figma" />
+</p>
